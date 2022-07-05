@@ -3,7 +3,7 @@ This extruder based on JaredC01 Galileo extruder share same componants (Bom) so 
 
 # https://github.com/JaredC01/Galileo
 
-# Gallery
+
 ![Galileo-SB.jpg](imge/Galileo-SB.jpg)
 
 # BOM 
@@ -11,6 +11,10 @@ This extruder based on JaredC01 Galileo extruder share same componants (Bom) so 
 - 4x M3X25
 - 3x M3X16mm 
 - 8x heat brass insert (BOM insert)
+
+## Gallery
+![06.jpg](imge/06.jpg)
+
 
 ## Appreciate my work ?
 
