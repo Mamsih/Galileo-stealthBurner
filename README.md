@@ -14,9 +14,9 @@ This extruder based on JaredC01 Galileo extruder share same componants (Bom) so 
 
 ## Gallery
 <img width="750" src="imge/03.png">
-<img width="850" src="imge/12.JPG">
-<img width="450" src="imge/Galileo-SB.jpg">
-<img width="450" src="imge/Galileo-SB.jpg">
+<img width="600" src="imge/11.JPG">
+<img width="450" src="imge/12.JPG">
+<img width="450" src="imge/13.JPG">
 
 
 ## Appreciate my work ?
