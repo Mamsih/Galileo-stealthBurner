@@ -1,7 +1,5 @@
-# Galileo-stealthBurner
-Galileo extruder for stealthBurner
-
-
+# Galileo extruder for stealthBurner
+This extruder based on JaredC01 Galileo extruder share same componants (Bom)
+#https://github.com/JaredC01/Galileo
 
 # Gallery
-<img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src=Galileo-SB v3.jpg>
