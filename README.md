@@ -13,6 +13,7 @@ This extruder based on JaredC01 Galileo extruder share same componants (Bom) so 
 - 8x heat brass insert (BOM insert)
 
 ## Gallery
+<img width="751" alt="Screen Shot 2022-06-23 at 6 24 17 PM" src="(imge/Galileo-SB.jpg)">
 ![06.jpg](imge/06.jpg)
 
 
