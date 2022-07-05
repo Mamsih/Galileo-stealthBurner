@@ -4,4 +4,4 @@ This extruder based on JaredC01 Galileo extruder share same componants (Bom) so 
 # https://github.com/JaredC01/Galileo
 
 # Gallery
-![Galileo-SB.jpg](img/Galileo-SB.jpg)
+![Galileo-SB.jpg](imge/Galileo-SB.jpg)
